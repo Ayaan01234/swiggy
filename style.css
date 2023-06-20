@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.main-box{
+
+   
+    height: 540px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+  .bb1{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+    margin-top: 50px;
+  }
+
+  .box-1{
+    height: 600px;
+    width: 50%;
+    margin-left: 120px;
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; */
+    
+
+  }
+  .bb1 span{
+    width: 250px;
+    height: 100px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 10px;
+
+    
+  }
+
+/* .bb1  .login button{
+  width: 100px;
+  height: 40px;
+  border-radius: none;
+  background-color: white;
+  color: black;
+} */
+
+  .bb1 span button{
+    width: 100px;
+    height: 40px;
+    border-radius: 2px;
+    border: none;
+    background-color: black;
+    color: white;
+  }
+  .box-2 img{
+    height: 600px;
+    width: 700px;
+    margin-bottom: 80px;
+    /* border: 2px solid red; */
+  }
+
+
+  .bb2{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* border: 2px solid red; */
+    /* height: 250px; */
+    
+    margin-top: 80px;
+
+  }
+  .bb2 p{
+    margin-top: 20px;
+  }
+
+  .bb2 h1{
+    height: 70px;
+    font-size: 50px;
+  }
+  .bb2 h5{
+     
+      height: 90px;
+      font-size: 20px;
+      /* margin-bottom:40px ; */
+
+      }
+
+
+
+
+
+
+
+
+                     .full-img img{
+                      height: 360px;
+                      width: 1515px;
+                      /* margin-bottom: 300px; */
+                      
+                     }
+
+                     .main-part{
+                      height: 550px;
+                      width: 100%;
+                      display: flex;
+                      justify-content: space-around;
+                      align-items: center;
+
+                     }
+                     .part-2 img{
+                      height: 550px;
+
+                     }
+
+                     .last{
+                      height: 450px;
+                      width: 100%;
+                      display: flex;
+                      justify-content: space-evenly;
+                      /* margin-top: 50px;        */
+                      color: white;   
+                                background-color: black;
+                              /* padding-top: 100px; */
+
+
+                     }
+                     .last img{
+                      height: 230px;
+                      margin-top: 70px;
+                     }
+
+                     .last ul li{
+                      margin-top: 20px;
+                     }
+                     .hr{
+                      color: white;
+                     }
+
+                     .lastpart{
+                      height: 70px;
+                      width: 100%;
+                      display: flex;
+                      justify-content: space-evenly;
+                      background-color: black;
+                     }
+
+                     .bbin span{
+                      width: 100%;
+                     }
+                     .bbin span input{
+                      width: 400px;
+                      height: 60px;
+
+                     }
+
+                     .bbin span button{
+                      width: 150px;
+                      height: 60px;
+                      background-color: orange;
+                      border: none;
+                     }
